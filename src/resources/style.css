@@ -1,0 +1,13 @@
+#scorePane{
+    -fx-background-image: url("full-bg.png");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 800 571;
+    -fx-background-position: center center; 
+}
+
+#instrPane{
+    -fx-background-image: url("bg-instructions.png");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 800 571;
+    -fx-background-position: center center; 
+}
